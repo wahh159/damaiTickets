@@ -1,0 +1,8 @@
+{
+  "server_url": "http://127.0.0.1:4723",
+  "users": [],
+  "if_commit_order": true,
+  "dateList":[1],
+  "dateLen":1,
+  "priceList":[1,2,3,4,5]
+}
