@@ -89,6 +89,11 @@ cd damai_appium
 python damaiApp.py
 ```
 
+
 如果报错或者缺了啥依赖就下就完了
 
-不商用，仅供学习参考而已，可以自己优化一下
+不商用，半成品，仅供学习参考而已，可以自己优化一下，自己研究研究
+优化后已经可以跳过弹窗和滑块了，这是测试效果
+![image](https://github.com/wahh159/damaiTickets/assets/34958368/f972c6f2-31dc-4862-bd1e-fa607f56be9b)
+
+![image](https://github.com/wahh159/damaiTickets/assets/34958368/93df5e3a-ab5c-4cc2-b6dc-d15bb1cb3ffb)
