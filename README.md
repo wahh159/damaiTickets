@@ -93,6 +93,7 @@ python damaiApp.py
 
 不商用，半成品，仅供学习参考而已，可以自己优化一下，自己研究研究
 优化后已经可以跳过弹窗和滑块了，这是测试效果
+
 <img src="damai_appium/1.gif" width="50%" height="50%" />
 
 ![image](https://github.com/wahh159/damaiTickets/assets/34958368/93df5e3a-ab5c-4cc2-b6dc-d15bb1cb3ffb)
