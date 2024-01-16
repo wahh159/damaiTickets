@@ -90,18 +90,10 @@ python damaiApp.py
 ```
 
 
-
-### 5 滑块识别效果
-dm真恶心，终于研究出来了
-- ![image](https://github.com/wahh159/damaiTickets/assets/34958368/e09fcc71-e13c-4970-ac2d-9de221a34e92)
-- ![image](https://github.com/wahh159/damaiTickets/assets/34958368/28e58af6-8c7b-447b-ae74-8f5f4a04f96f)
-- ![image](https://github.com/wahh159/damaiTickets/assets/34958368/e8f80cda-4c38-486f-9968-424d6b515762)
-
-
-
-
 如果报错或者缺了啥依赖就下就完了
 
-不商用，仅供学习参考而已，可以自己优化一下，自己研究研究
+不商用，半成品，仅供学习参考而已，可以自己优化一下，自己研究研究
 优化后已经可以跳过弹窗和滑块了，这是测试效果
+![image](https://github.com/wahh159/damaiTickets/assets/34958368/f972c6f2-31dc-4862-bd1e-fa607f56be9b)
+
 ![image](https://github.com/wahh159/damaiTickets/assets/34958368/93df5e3a-ab5c-4cc2-b6dc-d15bb1cb3ffb)
